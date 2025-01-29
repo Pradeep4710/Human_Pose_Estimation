@@ -1,6 +1,3 @@
-Here's a **README.md** file template for your GitHub repository:
-
-```markdown
 # Human Pose Estimation using Machine Learning
 
 This project implements a real-time human pose estimation system using machine learning techniques. The system detects and visualizes human body keypoints (like shoulders, elbows, knees, etc.) in real-time from video input, utilizing deep learning models like OpenPose or MediaPipe, OpenCV for video processing, and Streamlit for the user interface.
